@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-training-use-popcorn/static/css/main.b9d892e7.css",
+    "main.js": "/react-training-use-popcorn/static/js/main.286e3447.js",
+    "index.html": "/react-training-use-popcorn/index.html",
+    "main.b9d892e7.css.map": "/react-training-use-popcorn/static/css/main.b9d892e7.css.map",
+    "main.286e3447.js.map": "/react-training-use-popcorn/static/js/main.286e3447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d892e7.css",
+    "static/js/main.286e3447.js"
+  ]
+}
